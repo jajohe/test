@@ -1,4 +1,5 @@
-#Test for AI in Trading NanoDegree# 
+# Test for AI in Trading NanoDegree # 
+
 This repository contains code for Udacity's AI in Trading NanoDegree.
 
 Repository File Structure
