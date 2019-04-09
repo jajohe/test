@@ -1,13 +1,14 @@
 # Test for AI in Trading NanoDegree # 
 
-This repository contains code for Udacity's AI in Trading NanoDegree.
+This repository contains code for test.
 
-Repository File Structure
-.
-├── project/             # Code for projects in the classroom
-├── quiz/                # Code for quizzes in the classroom
-├── helper.py            # A helper file shared across projects and quizzes
-├── requierments.txt     # Common packages used for projects and quizzes
-└── tests.py             # Common test functions for unit testing student code in projects and quizzes
-No Data
-We don't have a licence to redistribute the data to you. We're working on alternatives to this problem.
+
+## Authors ##
+
+ - John He [http://www.j100tun.com/](http://www.100tun.com/)
+
+## License ##
+
+All source code is copyright (c) 2012, under the Simplified BSD License.  
+For more information on FreeBSD see: [http://www.opensource.org/licenses/bsd-license.php](http://www.opensource.org/licenses/bsd-license.php)
+
